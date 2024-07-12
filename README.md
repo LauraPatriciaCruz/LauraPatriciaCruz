@@ -1,4 +1,4 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">Hi there !! I´m Laura Cruz
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hi there !! I´m Laura Cruz
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Monserrat&size=25&letterSpacing=3px&pause=1000&random=false&width=435&lines=Frontend+Developer+;Active+Learner+%2F+Researcher;Love+to+learn+new+stuff+%3C3" alt="Typing SVG" /></a>
 
 
